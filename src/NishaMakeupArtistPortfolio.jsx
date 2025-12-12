@@ -34,7 +34,7 @@ const NishaMakeupArtistPortfolio = () => {
         "Dupatta / Saree Draping",
         "Lenses & Laser"
       ],
-      image: "https://images.unsplash.com/photo-1513106580091-1d82408b8cd6?w=400&h=300&fit=crop&crop=face"
+      image: "https://media6.ppl-media.com/mediafiles/blogs/shutterstock_1805797540_a5cdc3576e.jpg"
     },
     {
       title: "Bridal Makeup - ₹20,000",
@@ -88,7 +88,7 @@ const NishaMakeupArtistPortfolio = () => {
 
   const galleryImages = [
     "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=400&h-500&fit=crop",
-    "https://images.unsplash.com/photo-1596703923338-48f1c07e4f2e?w=400&h=500&fit=crop",
+    "data:image/jpeg;base64,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",
     "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?w=400&h=500&fit=crop",
     "https://images.unsplash.com/photo-1512496015851-a90fb38ba796?w=400&h=500&fit=crop"
   ];
@@ -120,10 +120,10 @@ const NishaMakeupArtistPortfolio = () => {
             </p>
           </div>
           <div className="space-x-4">
-            <button className="bg-rose-500 hover:bg-rose-600 text-white font-semibold px-8 py-3 rounded-full transition duration-300 transform hover:scale-105 shadow-lg">
+            <button className="bg-rose-500 hover:bg-rose-600 my-2 text-white font-semibold px-8 py-3 rounded-full transition duration-300 transform hover:scale-105 shadow-lg">
               Book Appointment
             </button>
-            <button className="bg-white/20 backdrop-blur-sm border-2 border-white text-white hover:bg-white/30 font-semibold px-8 py-3 rounded-full transition duration-300">
+            <button className="bg-white/20 backdrop-blur-sm border-2 my-2 border-white text-white hover:bg-white/30 font-semibold px-8 py-3 rounded-full transition duration-300">
               View Portfolio
             </button>
           </div>
@@ -314,7 +314,7 @@ const NishaMakeupArtistPortfolio = () => {
               </div>
 
               {/* Testimonials */}
-              <div className="bg-linear-to-br from-amber-50 to-white rounded-2xl p-8 shadow-xl border border-amber-100">
+              {/* <div className="bg-linear-to-br from-amber-50 to-white rounded-2xl p-8 shadow-xl border border-amber-100">
                 <h3 className="text-2xl font-bold text-rose-800 mb-6 text-center">Client Love</h3>
                 <div className="space-y-6">
                   {testimonials.map((testimonial, index) => (
@@ -339,7 +339,7 @@ const NishaMakeupArtistPortfolio = () => {
                     </div>
                   ))}
                 </div>
-              </div>
+              </div> */}
             </div>
           </div>
         </div>
@@ -363,10 +363,10 @@ const NishaMakeupArtistPortfolio = () => {
           </p>
           <div className="flex flex-col md:flex-row justify-center gap-6">
             <button className="bg-rose-500 hover:bg-rose-600 text-white font-semibold px-10 py-4 rounded-full text-lg transition duration-300 transform hover:scale-105 shadow-lg flex items-center justify-center">
-              <span className="mr-2">📞</span> Call Now: +91 98765 43210
+              <span className="mr-2">📞</span> Call Now: +91 9352273378
             </button>
             <button className="bg-white/20 backdrop-blur-sm hover:bg-white/30 text-white font-semibold px-10 py-4 rounded-full text-lg border-2 border-white transition duration-300 transform hover:scale-105 flex items-center justify-center">
-              <span className="mr-2">💌</span> Email: nisha@makeupartist.com
+              <span className="mr-2">💌</span> Email: nishasuthar201@gmail.com
             </button>
           </div>
           
